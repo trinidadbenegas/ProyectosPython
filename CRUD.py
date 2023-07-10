@@ -8,7 +8,7 @@ class Conectar:
                 host=  'localhost',
                 port= 3306,
                 user='root',
-                password='TRINI1234',
+                password='',
                 db='cliente'
 
             )
